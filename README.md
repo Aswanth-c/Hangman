@@ -1,5 +1,6 @@
 # Hangman
 Hangman game coded in java
+You can play on your cli
 
 
 Code contains
